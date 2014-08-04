@@ -9,3 +9,9 @@
 nav {
 	margin: 2em 0;
 }
+
+.galleryImage {
+    height: 225px;
+    width: 300px;
+    border: none;
+}
