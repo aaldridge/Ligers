@@ -67,7 +67,12 @@
   <ItemGroup>
     <Content Include="Images\AdorableLigerCub.jpg" />
     <Content Include="Index.html" />
-    <Content Include="Styles.css" />
+    <Content Include="Scripts\bootstrap.js" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\respond.js" />
+    <Content Include="Styles\site.css" />
+    <Content Include="Styles\bootstrap.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
